@@ -2,8 +2,6 @@ import time
 import random
 from pypresence import Presence
 
-time.sleep(10)
-
 client_id = "1268516316529033300"
 
 rpc = Presence(client_id)
