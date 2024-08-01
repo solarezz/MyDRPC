@@ -40,7 +40,9 @@ def start_presence():
         start=in_time,
         buttons=btns,
         large_image="maxdiscord",
-        large_text="Beginner Python Developer"
+        large_text="Beginner Python Developer",
+        small_image="minpython",
+        small_text="Python 3.12.4"
     )
 
 def click(icon: Icon, item: MenuItem):
