@@ -10,7 +10,7 @@ from PIL import Image
 from pystray import Icon, MenuItem, Menu
 from pathlib import Path
 
-client_id = "1268516316529033300"
+client_id = ""
 
 shortcut = r"C:\Users\solarezz\AppData\Local\Discord\app-1.0.9159\Discord.exe"
 os.startfile(shortcut)
