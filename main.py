@@ -12,7 +12,7 @@ from pathlib import Path
 
 client_id = "1268516316529033300"
 
-shortcut = r"C:\Users\solarezz\AppData\Local\Discord\app-1.0.9159\Discord.exe"
+shortcut = r"C:\Users\solarezz\AppData\Local\Discord\app-1.0.9161\Discord.exe"
 os.startfile(shortcut)
 time.sleep(20)
 
